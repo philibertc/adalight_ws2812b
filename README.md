@@ -4,3 +4,5 @@ This is a fork of Adalight working with WS2811/WS2812 LED using the FastLED libr
 FastLED library can be found on Github here : https://github.com/FastLED/FastLED
 
 Prebuilt binaries are in the releases page.
+
+Data pin of the LED strip goes on pin 6 (D6).
