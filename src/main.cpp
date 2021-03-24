@@ -4,6 +4,7 @@
  * Arduino interface for the use of WS2812 strip LEDs
  * Uses Adalight protocol and is compatible with Boblight, Prismatik etc...
  * "Magic Word" for synchronisation is 'Ada' followed by LED High, Low and Checksum
+ * Author: philibertc
  * Original author: Wifsimster <wifsimster@gmail.com>
  * Tested and approved library: FastLED v3.001
  */
