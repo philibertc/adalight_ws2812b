@@ -5,7 +5,7 @@ FastLED library can be found on Github here : https://github.com/FastLED/FastLED
 
 Prebuilt binaries are in the releases page.
 
-Data pin of the LED strip goes on pin 6 (D6).
+Data pin of the LED strip goes on pin 6 (D6). You will need to edit the main.cpp file in platformio if you have more than 240 LEDs.
 
 ## What you need
 - An Arduino Nano (genuine or not).
