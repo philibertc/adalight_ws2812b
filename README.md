@@ -5,9 +5,7 @@ This is a fork of Adalight working with WS2811/WS2812 LED using the FastLED libr
 
 Original author: https://github.com/Wifsimster
 
-Prebuilt binaries are in the releases page.
-
-Data pin of the LED strip goes on pin 6 (D6). You will need to edit the main.cpp file in platformio if you have more than 240 LEDs.
+Data pin of the LED strip goes on pin 6 (D6). You will need to edit the main.cpp (or the .ino) file in PlatformIO (or Arduino IDE) if you have more than 240 LEDs.
 
 ## What you need
 - An Arduino Nano (genuine or not).
