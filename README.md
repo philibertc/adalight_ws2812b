@@ -17,6 +17,7 @@ Data pin of the LED strip goes on pin 6 (D6). You will need to edit the main.cpp
 - A 5v power supply. To calculate the required current do: 0.06A × `NUM_LEDS`.
 - A soldering iron and cables **or** Dupont wires and 3 lines LED strip edge connector.
 - Solderless breadboard **or** proto-board (if you want to do a welded version).
+- Prismatik: https://github.com/psieg/Lightpack/releases
 
 ## The circuit
 ![image](https://user-images.githubusercontent.com/57588282/112463052-12ffd680-8d62-11eb-84cc-00eae1426d71.png)
