@@ -1,5 +1,5 @@
 # Adalight WS2812B (Ambilight for about 30$).
-**This is for use with PlatformIO, see https://github.com/philibertc/adalight_ws2812b_arduino_ide for the Arduino IDE edition (you will need to download FastLED with the Arduino IDE's library manager).**
+**This is for use with PlatformIO, go on https://github.com/philibertc/adalight_ws2812b/releases/download/v1.0/Adalight_WS2812b.ino for the Arduino IDE edition (you will need to download FastLED with the Arduino IDE's library manager).**
 
 This is a fork of Adalight working with WS2811/WS2812 LED using the FastLED library (v 3.1).
 
