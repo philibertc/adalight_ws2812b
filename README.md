@@ -1,4 +1,4 @@
-# Adalight WS2812B
+# Adalight WS2812B (Ambilight for about 30$).
 This is for use with PlatformIO, see https://github.com/philibertc/adalight_ws2812b_arduino_ide for the Arduino IDE edition.
 
 This is a fork of Adalight working with WS2811/WS2812 LED using the FastLED library (v 3.1).
@@ -17,7 +17,7 @@ Data pin of the LED strip goes on pin 6 (D6). You will need to edit the main.cpp
 - A 5v power supply. To calculate the required current do: 0.06A × `NUM_LEDS`.
 - A soldering iron and cables **or** Dupont wires and 3 lines LED strip edge connector.
 - Solderless breadboard **or** proto-board (if you want to do a welded version).
-- Prismatik: https://github.com/psieg/Lightpack/releases
+- Prismatik (Linux, Windows, Mac): https://github.com/psieg/Lightpack/releases
 
 ## The circuit
 ![image](https://user-images.githubusercontent.com/57588282/112463052-12ffd680-8d62-11eb-84cc-00eae1426d71.png)
