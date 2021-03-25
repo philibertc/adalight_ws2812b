@@ -3,8 +3,6 @@ This is for use with PlatformIO, see https://github.com/philibertc/adalight_ws28
 
 This is a fork of Adalight working with WS2811/WS2812 LED using the FastLED library (v 3.1).
 
-FastLED library can be found on Github here : https://github.com/FastLED/FastLED
-
 Prebuilt binaries are in the releases page.
 
 Data pin of the LED strip goes on pin 6 (D6). You will need to edit the main.cpp file in platformio if you have more than 240 LEDs.
