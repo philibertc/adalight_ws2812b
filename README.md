@@ -11,4 +11,4 @@ Data pin of the LED strip goes on pin 6 (D6). You will need to edit the main.cpp
 - An Arduino Nano (genuine or not).
 - A 1000µF (or more) electrolytic capacitor.
 - A resistance between 200 and 600 Ohms.
-- WS2812B RGB LED strip
+- WS2812B RGB LED strip (max 240 LEDs) I recommend a strip with 60 LEDs/meter.
