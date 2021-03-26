@@ -1,5 +1,4 @@
 #include <Arduino.h>
-
 /*
  * Arduino interface for the use of WS2812 strip LEDs
  * Uses Adalight protocol and is compatible with Boblight, Prismatik etc...
