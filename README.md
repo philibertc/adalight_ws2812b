@@ -19,3 +19,7 @@ Data pin of the LED strip goes on pin 6 (D6). You will need to edit the main.cpp
 
 ## The circuit
 ![image](https://user-images.githubusercontent.com/57588282/112475769-76453500-8d71-11eb-9e01-6321eb142ff7.png)
+
+© Philibert Cheminot
+
+All images can be reused as long as I am cited.
